@@ -1,0 +1,30 @@
+body {
+
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+.weather__component {
+    background-color: white;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+#get__weather{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+#city__name{
+   border-radius: 5px; 
+   width: 150px;
+   height: 25px;
+}
+
+
+
